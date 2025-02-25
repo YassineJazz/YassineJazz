@@ -9,14 +9,15 @@
   - [Student Graduation Prediction](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   - [House Pricing Prediction](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   - [Bulldozer Pricing Prediction](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-- <b>PowerShell</b>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- Business Technology Management Graduate : Fall 2024 (https://www.concordia.ca/academics/undergraduate/business-technology-management.html)
 
 <h2>📝 Certifications</h2>
 
 - Zero-to-Mastery, the complete A.I & Machine learning, Data Science bootcamp] (https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/)
 - Google Project Management: Professional Certificate (https://www.youtube.com/watch?v=uHy3oM7NnoU)
+
+<h2>🥋 Brazilian Jiu Jitsu Practioner</h2>
+   https://smoothcomp.com/en/profile/1530748
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -30,17 +31,4 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
