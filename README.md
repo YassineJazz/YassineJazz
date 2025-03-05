@@ -23,6 +23,7 @@
 
 <h2> 🤳 Connect with me:</h2>
   Mail: jazouliyassine1@gmail.com
+  
   linkedin: www.linkedin.com/in/yassine-jazouli-92771b203
 
 
