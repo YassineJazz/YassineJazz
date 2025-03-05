@@ -22,6 +22,7 @@
    https://smoothcomp.com/en/profile/1530748
 
 <h2> 🤳 Connect with me:</h2>
-  [linkedin]: www.linkedin.com/in/yassine-jazouli-92771b203
+  Mail: jazouliyassine1@gmail.com
+  linkedin: www.linkedin.com/in/yassine-jazouli-92771b203
 
 
