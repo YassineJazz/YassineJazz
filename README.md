@@ -16,7 +16,7 @@
 <h2>📝 Certifications</h2>
 
 - Zero-to-Mastery, the complete A.I & Machine learning, Data Science bootcamp] (https://zerotomastery.io/courses/machine-learning-and-data-science-bootcamp/)
-- Google Project Management: Professional Certificate (https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- Google Project Management: Professional Certificate (https://www.credly.com/badges/24cce8c3-d51b-411c-939e-6305197c41f4/public_url)
 
 <h2>🥋 Brazilian Jiu Jitsu Practioner</h2>
    https://smoothcomp.com/en/profile/1530748
