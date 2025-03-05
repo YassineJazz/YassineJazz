@@ -3,7 +3,7 @@
 <h2>👨‍💻 Machine Learning and Data analysis projects:</h2>
 
 - <b>Data Structures and Machine Learning Practice (TensorFlow/Python)</b>
-  - [Identifying Dog Breed with TensorFlow](https://github.com/joshmadakor1/Algorithms-Practice) <b><i>(Transfer Learning Classifier)</b></i>
+  - [Identifying Dog Breed with TensorFlow](https://github.com/YassineJazz/Dog-Breed-identification/tree/main) <b><i>(Transfer Learning Classifier)</b></i>
 - <b>Data analysis and prediction (Scikit-Learn/Python)</b>
   - [Heart Disease Prediction](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   - [Student Graduation Prediction](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
